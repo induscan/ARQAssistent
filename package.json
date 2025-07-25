@@ -1,1 +1,16 @@
-
+json{
+  "name": "sales-validator",
+  "version": "1.0.0",
+  "description": "Validador de información de ventas con Claude AI",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build needed'",
+    "start": "vercel dev"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["sales", "validator", "claude", "ai"],
+  "author": "Tu Nombre",
+  "license": "MIT"
+}
